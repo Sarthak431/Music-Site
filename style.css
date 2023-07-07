@@ -37,7 +37,7 @@ body
     border : 1px solid rgb(0, 0, 0);
     padding: 8px;
     border-radius: 20px;
-    margin-left : 160px ;
+    margin-left : 120px ;
 }
 
 .login
@@ -222,17 +222,22 @@ a{
   .K p{
     text-align: center;
   }
+  .K h2{
+    margin-left: 15px;
+  }
   .M
   {
 
     display: flex;
     justify-content: space-between;
     margin: 10px 20px;
+    margin-right: 50px;
     color: #fff;
   }
 
 .M h1{
     display: inline;
+    margin-left: 75px;
 }  
 
 
