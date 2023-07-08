@@ -1,11 +1,17 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Berkshire+Swash&family=Caprasimo&family=Lato&family=Lobster&family=Rubik+Moonrocks&family=Satisfy&family=Shrikhand&display=swap');
 
 body 
 {
     margin: 0;
     padding: 0;
-    background-color: rgb(0, 5, 45);
+    background-color: rgb(28, 0, 45);
     font-family: Arial, sans-serif;
+}
+.st 
+{
+  font-family: lato, cursive;
+  font-size: 25px;
 }
 #nav
 {
@@ -26,7 +32,7 @@ body
 {
     list-style: none;
     display: flex;
-    margin-left: 160px;
+    margin-left: 150px;
 }
 #N li
 {
@@ -37,7 +43,7 @@ body
     border : 1px solid rgb(0, 0, 0);
     padding: 8px;
     border-radius: 20px;
-    margin-left : 120px ;
+    margin-left : 110px ;
 }
 
 .login
@@ -75,7 +81,7 @@ body
 }
 
 #intro{
-    width: 950px;
+    width: 1000px;
     height: 500px;
     display: block;
     margin: 15px auto;
